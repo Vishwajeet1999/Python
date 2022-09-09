@@ -1,2 +1,2 @@
-print("My Name is Anthony Gonsalvis.")
-print("Trying to learn Python")
+print("Hello First line")
+print("Second line")
